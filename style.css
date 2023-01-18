@@ -9,9 +9,11 @@
     flex-wrap: wrap;
 }
 nav{
+   
     max-width: 100%;
 }
 nav ul{
+    
     display: flex;
     flex-wrap: wrap;
     gap: 10vh;

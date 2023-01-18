@@ -1,0 +1,12 @@
+@media screen and (max-width: 767px) {
+    nav ul{
+        display: flex;
+        flex-direction: column;
+        gap: 10vh;
+        align-items: center;
+    }
+    .lang{
+        flex-direction: column;
+    }
+    
+}
