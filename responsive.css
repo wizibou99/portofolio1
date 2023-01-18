@@ -1,8 +1,7 @@
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
     nav ul{
         display: flex;
         flex-direction: column;
-        gap: 10vh;
         align-items: center;
     }
     .lang{
